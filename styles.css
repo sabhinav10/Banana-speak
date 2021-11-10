@@ -1,3 +1,7 @@
+body {
+  margin: 0;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
 textarea {
   width: 80%;
   height: 30vh;
@@ -10,4 +14,14 @@ textarea {
   margin: 1rem;
   padding: 1rem;
   border: 1px solid blue;
+}
+#heading {
+  width: 100%;
+  height: 10vh;
+  border: 1px solid black;
+  text-align: center;
+  padding: 1rem;
+}
+h1 {
+  padding-bottom: 0.4rem;
 }
