@@ -1,4 +1,4 @@
-body {
+/* body {
   margin: 0;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
@@ -24,4 +24,7 @@ textarea {
 }
 h1 {
   padding-bottom: 0.4rem;
+} */
+*, ::before, ::after{
+  box-sizing: border-box;
 }
